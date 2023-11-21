@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **shabab-kabir/shabab-kabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I've been a freelance Music Composer & Digital Artist since 2016, creating emotionally resonant compositions and digital art.
 
 Feel free to browse through my repositories to see my work. If you're interested in quantum technologies or the intersection of technology and arts, let's connect!
--->
+
