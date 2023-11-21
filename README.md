@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on innovative projects in Quantum Information and Systems at Fermilab.
-- 🌱 I’m currently learning advanced concepts in Physics, Mathematics, and Music with a focus on Quantum Computing and Neuroscience at Grinnell College.
+- 🌱 I’m currently learning advanced concepts in Physics, Mathematics, and Music with a focus on Quantum Information and Systems at Grinnell College.
 - 👯 I’m looking to collaborate on projects involving Quantum Programming, AI, Quantum Machine Learning, and Virtual Reality.
 - 🤔 I’m seeking opportunities that challenge me in Software Development, Python, Quantum Programming, and Digital Art & Design.
 - 💬 Ask me about my journey in Quantum Computing, Music Composition, and how technology intersects with the arts.
