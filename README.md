@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects involving Quantum Programming, AI, Quantum Machine Learning, and Virtual Reality.
 - 🤔 I’m seeking opportunities that challenge me in Software Development, Python, Quantum Programming, and Digital Art & Design.
 - 💬 Ask me about my journey in Quantum Computing, Music Composition, and how technology intersects with the arts.
-- 📫 How to reach me: Email me at kabirsha@grinnell.edu or connect with me on LinkedIn [here](linkedin.com/in/shabab-kabir).
+- 📫 How to reach me: Email me at kabirsha@grinnell.edu or connect with me on LinkedIn [here](https://linkedin.com/in/shabab-kabir).
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I've been a freelance Music Composer & Digital Artist since 2016, creating emotionally resonant compositions and digital art.
 
