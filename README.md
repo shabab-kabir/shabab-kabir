@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on innovative projects in Quantum Information and Systems at Fermilab.
+- 🔭 I’m currently working on projects in Quantum Computing at Fermilab.
 - 🌱 I’m currently learning advanced concepts in Physics, Mathematics, Music, Neuroscience, and Digital Studies with a focus on Quantum Information and Systems at Grinnell College.
 - 👯 I’m looking to collaborate on projects involving Quantum Programming, AI, Quantum Machine Learning, and Virtual Reality.
 - 🤔 I’m seeking opportunities that challenge me in Software Development, Python, Quantum Programming, and Digital Art & Design.
