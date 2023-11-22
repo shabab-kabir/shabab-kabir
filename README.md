@@ -1,5 +1,5 @@
 ### "Hello, World!" 👋
-![Shabab M K  (2)](https://github.com/shabab-kabir/shabab-kabir/assets/126777449/0a0a0544-0bea-4212-b83c-7ff1ecf72401)
+![White Beige Minimalistic Travel Agency Ad Banner](https://github.com/shabab-kabir/shabab-kabir/assets/126777449/fd783450-d003-442a-a22c-d962b1af4b39)
 
 
 - 🔭 I’m currently working on projects in Quantum Computing at Fermilab.
