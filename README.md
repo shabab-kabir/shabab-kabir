@@ -1,4 +1,4 @@
-### Hi there 👋
+### "Hello, World!" 👋
 
 - 🔭 I’m currently working on projects in Quantum Computing at Fermilab.
 - 🌱 I’m currently learning advanced concepts in Physics, Mathematics, Music, Neuroscience, and Digital Studies with a focus on Quantum Information and Systems at Grinnell College.
