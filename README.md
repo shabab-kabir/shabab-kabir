@@ -1,4 +1,4 @@
-### "Hello, World!" <img src="https://github.com/shabab-kabir/shabab-kabir/assets/126777449/fb9d797c-c295-41a0-8a2c-5e535bb50fec" alt="Pixel Art of My Face" width="30" height="30" style="vertical-align: middle;"> 👋
+### "Hello, World!" 👋
 
 ![White Beige Minimalistic Travel Agency Ad Banner](https://github.com/shabab-kabir/shabab-kabir/assets/126777449/fd783450-d003-442a-a22c-d962b1af4b39)
 
@@ -12,10 +12,10 @@
 - 🤔 I’m seeking opportunities that challenge me in Software Development, Python, Quantum Programming, and Digital Art & Design.
 - 💬 Ask me about my journey in Quantum Computing, Music Composition, and how technology intersects with the arts.
 - 📫 How to reach me: Email me at kabirsha@grinnell.edu or connect with me on LinkedIn [here](https://linkedin.com/in/shabab-kabir).
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/They 
 - ⚡ Fun fact: My favorite food is sushi!
 
-Feel free to browse through my repositories to see my work. If you're interested in quantum technologies or the intersection of technology and arts, let's connect!
+Feel free to browse through my repositories to see my work. If you're interested in quantum technologies or the intersection of technology and arts, let's connect! <img src="https://github.com/shabab-kabir/shabab-kabir/assets/126777449/fb9d797c-c295-41a0-8a2c-5e535bb50fec" alt="Pixel Art of My Face" width="30" height="30" style="vertical-align: middle;">
 
 </td>
 <td>
