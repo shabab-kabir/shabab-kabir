@@ -1,6 +1,9 @@
 ### "Hello, World!" 👋
 ![White Beige Minimalistic Travel Agency Ad Banner](https://github.com/shabab-kabir/shabab-kabir/assets/126777449/fd783450-d003-442a-a22c-d962b1af4b39)
 
+<table>
+<tr>
+<td>
 
 - 🔭 I’m currently working on projects in Quantum Computing at Fermilab.
 - 🌱 I’m currently learning advanced concepts in Physics, Mathematics, Music, Neuroscience, and Digital Studies with a focus on Quantum Information and Systems at Grinnell College.
@@ -13,5 +16,11 @@
 
 Feel free to browse through my repositories to see my work. If you're interested in quantum technologies or the intersection of technology and arts, let's connect!
 
-![giphy (3)](https://github.com/shabab-kabir/shabab-kabir/assets/126777449/2ecc5b2c-a80e-481b-b383-9151902f7800)
+</td>
+<td>
+  
+<img src="https://github.com/shabab-kabir/shabab-kabir/assets/126777449/2ecc5b2c-a80e-481b-b383-9151902f7800" alt="Animated Math Art" style="max-width:100%;">
 
+</td>
+</tr>
+</table>
