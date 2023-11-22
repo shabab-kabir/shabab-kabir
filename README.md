@@ -1,4 +1,6 @@
 ### "Hello, World!" 👋
+![Shabab M K  (2)](https://github.com/shabab-kabir/shabab-kabir/assets/126777449/0a0a0544-0bea-4212-b83c-7ff1ecf72401)
+
 
 - 🔭 I’m currently working on projects in Quantum Computing at Fermilab.
 - 🌱 I’m currently learning advanced concepts in Physics, Mathematics, Music, Neuroscience, and Digital Studies with a focus on Quantum Information and Systems at Grinnell College.
