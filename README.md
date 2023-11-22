@@ -13,3 +13,5 @@
 
 Feel free to browse through my repositories to see my work. If you're interested in quantum technologies or the intersection of technology and arts, let's connect!
 
+![giphy (3)](https://github.com/shabab-kabir/shabab-kabir/assets/126777449/2ecc5b2c-a80e-481b-b383-9151902f7800)
+
