@@ -6,11 +6,11 @@
 <tr>
 <td>
 
-- 🔭 I’m currently working on projects in Quantum Computing at Fermilab.
-- 🌱 I’m currently learning advanced concepts in Physics, Mathematics, Music, Neuroscience, and Digital Studies with a focus on Quantum Information and Systems at Grinnell College.
-- 👯 I’m looking to collaborate on projects involving Quantum Programming, AI, Quantum Machine Learning, and Virtual Reality.
+- 🔭 I’m currently working on projects related to Quantum Computing at Fermilab.
+- 🌱 I’m currently learning advanced concepts in Mathematical Physics, Sonic Materiality, Neuroscience, and Digital Studies at Grinnell College, aspiring towards a career in Quantum Information and Systems.
+- 👯 I’m looking to collaborate on projects involving Physics, Quantum Programming, AI, ML/QML, and VR/AR/XR.
 - 🤔 I’m seeking opportunities that challenge me in Software Development, Python, Quantum Programming, and Digital Art & Design.
-- 💬 Ask me about my journey in Quantum Computing, Music Composition, and how technology intersects with the arts.
+- 💬 Ask me about my journey in Physics, Quantum Computing, Music Composition, and how technology intersects with the arts.
 - 📫 How to reach me: Email me at kabirsha@grinnell.edu or connect with me on LinkedIn [here](https://linkedin.com/in/shabab-kabir).
 - 😄 Pronouns: He/They 
 - ⚡ Fun fact: My favorite food is sushi!
