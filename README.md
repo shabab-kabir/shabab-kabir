@@ -6,9 +6,9 @@
 <tr>
 <td>
 
-- 🔭 I’m currently working on projects related to Quantum Networks at Argonne National Lab.
-- 🌱 I’m currently learning advanced concepts in Mathematical Physics, Sonic Materiality, Neuroscience, and Digital Studies at Grinnell College, aspiring towards a career in Quantum Information and Systems.
-- 👯 I’m looking to collaborate on projects involving Physics, Quantum Programming, AI, ML/QML, and VR/AR/XR.
+- 🔭 I’m currently working on projects related to Quantum Networks at Argonne National Lab and Materials at Grinnell College.
+- 🌱 I’m currently learning advanced concepts in Mathematical Physics, Sonic Materiality, and Digital Studies at Grinnell College, aspiring towards a career in Quantum Information and Systems.
+- 👯 I’m looking to collaborate on projects involving Physics, Quantum Programming, Music, AI, ML/QML, and VR/AR/XR.
 - 🤔 I’m seeking opportunities that challenge me in Software Development, Python, Quantum Programming, and Digital Art & Design.
 - 💬 Ask me about my journey in Physics, Quantum Computing, Music Composition, and how technology intersects with the arts.
 - 📫 How to reach me: Email me at kabirsha@grinnell.edu or connect with me on LinkedIn [here](https://linkedin.com/in/shabab-kabir).
